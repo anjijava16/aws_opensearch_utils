@@ -10,6 +10,9 @@
 <img width="1728" alt="image" src="https://github.com/anjijava16/aws_opensearch_utils/assets/5849522/79ca6b34-1a6a-4af9-8401-c0d069e4b768">
 
 
+<img width="1728" alt="image" src="https://github.com/anjijava16/aws_opensearch_utils/assets/5849522/cc4a960a-5394-481c-bbe2-68726921b2f8">
+
+
    
 # Domain endpoint
 1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com 
