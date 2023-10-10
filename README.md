@@ -7,6 +7,9 @@
 
    PWD:     root
 
+<img width="1728" alt="image" src="https://github.com/anjijava16/aws_opensearch_utils/assets/5849522/79ca6b34-1a6a-4af9-8401-c0d069e4b768">
+
+
    
 # Domain endpoint
 1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com 
@@ -39,5 +42,6 @@
     "minimum_index_compatibility_version": "7.0.0"
   },
   "tagline": "The OpenSearch Project: https://opensearch.org/"
+
 }
 ```
