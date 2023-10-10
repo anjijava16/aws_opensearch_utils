@@ -1,8 +1,14 @@
 # aws_opensearch_utils
-https://github.com/johnny-chivers/amazon-opensearch-service
+
+# OpenSearch Dashboards URL
+1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com/_dashboards 
+# Domain endpoint
+1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com 
 
 
-https://www.youtube.com/watch?v=KvEdRSJ2shQ
+# Reference Link
+1. https://github.com/johnny-chivers/amazon-opensearch-service
+2. https://www.youtube.com/watch?v=KvEdRSJ2shQ
 
 
 
