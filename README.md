@@ -1,7 +1,11 @@
 # aws_opensearch_utils
 
 # OpenSearch Dashboards URL
-1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com/_dashboards 
+1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com/_dashboards
+   UserName: admin
+   PWD:     root
+
+   
 # Domain endpoint
 1. https://search-welcome-4xc5m57lntk2oobar7fcztjqge.us-east-1.es.amazonaws.com 
 
